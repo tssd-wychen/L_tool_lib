@@ -1,0 +1,22 @@
+POPdlg:dialog{
+  label="popup list test";
+  :row{
+    :popup_list{
+      label="AREA_GROUP";
+      key="dia003";
+      height=1.2;
+      fixed_height=true;
+      edit_width=25;
+    }
+  }
+  :row{
+    :popup_list{
+      label="AREA_NAME";
+      key="dia004";
+      height=1.2;
+      fixed_height=true;
+      edit_width=25;
+    }
+  }
+  ok_cancel;
+}
