@@ -1,0 +1,41 @@
+(defun c:clac_a1()
+  (setvar "cmdecho" 0)
+  (vl-load-com)
+  (princ "\n select area \n")
+  (setq bd_set (SSGET '((8 . "0"))))
+  (setq bd_enlst (SS2ENLST bd_set))
+  (setq area_lst nil)
+  (foreach bd_en bd_enlst
+    (command "area" "o" bd_en)
+    (setq area_lst (cons (getvar "area") area_lst))
+  )
+  (setq area_seqlst (vl-sort-i area_lst '>))
+  (setq area_lst2 nil)
+  (foreach area_seq area_seqlst
+    (setq area_lst2 (cons (nth area_seq area_lst) area_lst2))
+  )
+  (setq area_lst2 (reverse area_lst2))
+  (setq area_ring (apply '- area_lst2))
+  (setq area_ring (/ area_ring 1000000))
+  (setq area_ring_s (rtos area_ring))
+  (setq area_ring_a (car (cdr (member 46 (vl-string->list area_ring_s)))))
+  (setq area_ring_a (- area_ring_a 48))
+  (if (> area_ring_a 0)
+    (setq area_ring (1+ (atoi area_ring_s)))
+    (setq area_ring (atoi area_ring_s))
+  )
+  (princ (strcat "\n the multi hole ring area is " (rtos area_ring) "\n"))
+
+)
+
+(defun SS2ENLST(ss / i_s len_s plst)
+  (setq plst nil)
+  (setq i_s 0)
+  (setq len_s (sslength ss))
+  (repeat len_s
+    (setq plst (cons (ssname ss i_s) plst))
+    (setq i_s (1+ i_s))
+  )
+  plst
+
+)
