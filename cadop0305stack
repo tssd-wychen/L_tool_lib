@@ -1,0 +1,941 @@
+布局
+
+diesel
+
+动态文字
+
+https://jingyan.baidu.com/article/29697b910d4b5bab20de3cda.html
+字段 re 一下
+
+https://www.douban.com/people/chi-ron/notes?start=10&type=note
+douban 
+
+https://lyuxiuchen.cn/jc
+personal blog LYU
+
+https://jingyan.baidu.com/article/148a1921aca8d74d71c3b190.html
+attdef-block-field联合运用碎片
+
+http://blog.163.com/antufme@126/
+FME
+
+http://blog.sina.com.cn/u/1080595210
+农夫
+
+http://www.feijiu.net/toutiao/article/10559.html
+diesel
+
+https://jingyan.baidu.com/article/0964eca22279f88285f536fc.html
+rtext
+
+https://jingyan.baidu.com/article/0964eca22279f88285f536fc.html
+payed key
+
+http://bbs.mjtd.com/thread-113804-2-1.html
+农夫的议论
+
+http://bbs.mjtd.com/thread-176677-2-1.html
+
+http://bbs.mjtd.com/forum.php?mod=viewthread&tid=50217&extra=page%3D2%26filter%3Ddigest%26digest%3D1
+
+AutoCAD2000学习心得
+
+“全国CAD应用培训网络工程设计中心”统一制订了《计算机绘图（初级）》的教学大纲，也编写了统一教材，并已经改版为AutoCAD2000；我业余时间报名参加了该项目培训学习，培训结束，我参加了考试，获得了初级证书，有一些心得体会，和大家分享： 
+
+　　经验和方法
+
+　　1、基础很重要
+
+　　实践证明，“手工图板”绘图能力是计算机绘图能力的基础，学习《AutoCAD》，需要一定的画法几何的知识和能力，需要一定的识图能力，尤其是几何作图能力，一般来说，我所在的班级中，《工程制图》水平好的学员，学起来较容易些，效果较好！
+
+　　2、循序渐进
+
+　　整个学习过程应采用循序渐进的方式，先了解计算机绘图的基本知识，如相对直角坐标和相对极坐标等，使自己能由浅入深，由简到繁地掌握AutoCAD 2000的使用技术。
+
+　　3、学以致用
+
+　　在学习AutoCAD 2000命令时始终要与实际应用相结合，不要把主要精力花费在各个命令孤立地学习上；要把学以致用的原则贯穿整个学习过程，以使自己对绘图命令有深刻和形象的理解，有利于培养自己应用AutoCAD 2000独立完成绘图的能力。
+
+　　4、熟能生巧
+
+　　配套的《计算机绘图习题集》作为上机实验书，它能使我们更加深入地理解、熟练AutoCAD 2000的命令。要强迫自己做几个综合实例，分别详细地进行图形的绘制，使自己可以从全局的角度掌握整个绘图过程，力争使自己学习完AutoCAD 2000课之后就可以投身到实际的工作中去。
+
+　　掌握技巧
+
+　　1、常见问题要弄懂
+
+　　（1）同样画一张图，有的同学画的大小适中，有的同学画的图形就很小，甚至看不见，这是为什么？
+
+　　这是因为绘图区域界限的设定操作没有做，或虽用LIMITS命令进行了设定，但忘记了用ZOOM命令中的ALL选项对绘图区重新进行规整。绘图区域的设定是根据实际的绘图需要来进行的。
+
+　　（2）有同学用线型名称为“HIDDEN”的线型画线段，但发现画出的线段看上去像是实线，这是什么原因引起的？
+
+　　这是“线型比例”不合适引起的，也就是说“线型比例”太大，也可能是太小。解决问题的办法是将线型管理器对话框打开，修改其“全局比例因子”至合适的数值即可。
+
+　　（3）在进行尺寸标注以后，有时发现不能看到所标注的尺寸文本，这是什么原因引起的？
+
+　　这是因为尺寸标注的整体比例因子设置得太小，将尺寸标注方式对话框打开，修改其数值变大即可。
+
+　　以上三个问题仅仅是我的同学们上机过程中遇到的最典型的三个问题和困难。实际问题不胜枚举，作为学员彻底弄懂这些问题，很有必要，对提高绘图质量和效率很有帮助。
+
+　　2、有比较，才有鉴别
+
+　　容易混淆的命令，要注意使自己弄清它们之间的区别。如ZOOM和SCALE，PAN和MOVE，DIVIDE和MEASURE等等。
+
+　　3、层次要分明
+
+　　图层就像是透明的覆盖图，运用它可以很好地组织不同类型的图形信息。学习过程中，我的同学图省事，直接从对象特性工具栏的下拉列表框中选取颜色，线型和线宽等实体信息，这很不好，使得处理图形中的信息不那么容易，要特别注意纠正自己的这一不好习惯。严格做到层次分明，规范作图。我的体会是：养成良好的习惯，受益匪浅。
+
+　　4、粗细要清楚
+
+　　能够显示实体的线宽是AutoCAD 2000的新功能。使用线宽，可以用粗线和细线清楚地展现出部件的截面，标高的深度，尺寸线以及不同的对象厚度。作为学员，一定要通过图层指定线宽，显示线宽。提高自己的图纸质量和表达水平。
+
+　　5、内外有别
+
+　　利用AutoCAD 2000的“块”以及属性功能，可以大大提高绘图效率。“块”有内部图块与外部图块之分。
+
+　　内部图块是在一个文件内定义的图块，可以在该文件内部自由作用，内部图块一旦被定义，它就和文件同时被存储和打开。
+
+　　外部图块将“块”的主文件的形式写入磁盘，其他图形文件也可以使用它，要注意这是外部图块和内部图块的一个重要区别。
+
+　　6、滴水不漏
+
+　　图案填充要特别注意的地方是构成阴影区域边界的实体必须在它们的端点处相交，也就是说要封闭，要做到“滴水不漏”；否则会产生错误的填充。作为学员最好还要学会如何查找“漏洞”，修复错误。
+
+7、写文字要规范
+
+　　文字是工程图中不可缺少的一部分，比如：尺寸标注文字、图纸说明，注释、标题等，文字和图形一起表达完整的设计思想。尽管AutoCAD 2000提供了很强的文字处理功能，但符合工程制图规范的文字，并没有直接提供。因此要学会设置“长仿宋体”这一规范文字。具体操作的简要步骤是，打开“文字样式”对话框，新建一个样式，可取名为“长仿宋体”，对话框中字体名改为选用“仿宋体GB-2312”，宽度比例也要改为0.67。尺寸标注的文字可改为“italic.shx”代替“仿宋体GB-2312”。
+
+　　另一种作用规范文字更简单的方法是，直接使用AutoCAD 2000样板文件提供的“工程字”样式；注意，使用前要用“使用模板”方式启动AutoCAD 2000，选择国标标题（如：GBA3）进入绘图状态。再将“工程字”样式置为当前工作样式。这种方法，大多数教科书中没有提及，作为学员要注意补充一下这一训练。
+
+　　8、特殊字符，特殊处理
+
+　　实际绘图中，常需要输入一些特殊字符，如角度标志，直径符号等。这些中利用AutoCAD提供的控制码来输入，较易掌握。
+
+　　另一些特殊字符，如“τ”、“α”、“δ”等等希腊字母的输入，掌握起来就不那么容易了。它要用到MTEXT命令的“其他…”选项，拷贝特殊字体的希腊字母，再粘贴到书写区等操作。尤其要注意字体的转换等编辑。
+
+　　还有一些特殊文本，如“φ”在机械制图中应用较多，叫做带上、下偏差的尺寸公差标注，也可用MTEXT命令的“堆叠”功能来实现。这样做远比在尺寸标注对话框中调节相应功能数值方便得多。我个人的体会是：特别方便！
+
+　　9、不依规矩，不成方圆
+
+　　工程标注是零件制造、工程施工和零部件装配时的重要依据。在任何时候一幅工程图中，工程标注是不可少的重要部分。在某些情况下，工程标注甚至比图形更重要。
+
+　　我的许多同学不怕绘图，怕标注；原因之一是尺寸标注方式对话框里选项太多，自己又理解不清，更不知道这些选项之间如何配合，所以往往很难达到理想的标注效果。
+
+　　为此，除应弄清对话框里各选取项的含义及常用值外，还应督促自己学习时应遵守如下五个规程：
+
+　　1、为尺寸标注创建一个独立的层，使之与图形的其他信息分开，便于进行各种操作。
+
+　　2、为尺寸文本建立专门的文字样式（如前述“长仿宋体”）和大小。
+
+　　3、将尺寸单位设置为所希望的计量单位，并将精度取到所希望的最小单位。
+
+　　4、利用尺寸方式对话框，将整体比例因子设置为绘制图形时的比例因子。
+
+　　5、充分利用目标捕捉方式，以便快捷拾取寻找点。
+
+　　10、两个空间、两个作用，两个练习
+
+　　在AutoCAD 2000环境中有两种空间：模型空间和图纸空间，其作用是不同的。一般来说，模型空间是一个三维空间，主要用来设计零件和图形的几何形状，设计者一般在模型空间完成其主要的设计构思；而图纸空间是用来将几何模型表达到工程图之上用的，专门用来进行出图的；图纸空间有时又称为“布局”，是一种图纸空间环境，它模拟图纸页面，提供直观的打印设置。目前的设计方向是进入三维的零件建模和设计，那么零件设计好之后需要表达到工程图上时，需要对其进行各个角度的投影，标注尺寸，加入标题栏和图框等等操作，此时在模型空间已经不能方便地进行这些操作了，在图纸空间则非常方便。在图纸空间中可能创建并放置视口对象，还可以添加标题栏或其他几何图形。可以在图形中创建多个布局以显示不同视图，每个布局可以包含不同的打印比例和图纸尺寸。布局显示的图形与图纸页面上打印出来的图形完全一样。
+
+　　为了使自己深刻理解“图纸空间”的作用，学习时，要根据老师要求求至少做两个这方面的实际例子，巩固“图纸空间”的概念。不得偷懒！
+
+　　11、九九归一
+
+　　计算机绘图的目标就是要使设计的结果在生产实践中发挥作用。目前的设计结果基本上以纸基图纸的方式进入到生产中，同时，在设计单位，纸基的图纸也是图纸档案管理的主要对象。虽然计算机辅助设计的发展方向是达到设计、生产的无纸化，但除了极少数巨型的制造企业外，绝大多数普通的设计生产单位还是以纸基图作为组织设计生产的依据。因此，怎样将AutoCAD 2000设计产生的电子格式的图纸转换成描绘在规定幅面上的纸基格式的图纸，是一个与生产实际结合得非常紧密的问题，在某种意义上来说，这一步与图形的修改、编辑等绘图过程同等重要。
+
+因此，“打印”的学习，除了弄清楚对话框的使用外，还应积极参加老师组织的一次演示课，使自己真实感受一下“计算机绘图”的这一最后环节。
+
+　　综上所述，学然后知不足。AutoCAD还有许多实用的功能，尤其是一些三维功能。学无止境，只要大家在学习中善于总结和归纳，一定能找到最佳学习方法。 
+
+AutoCAD发展历程回顾
+AutoCAD是由美国Autodesk公司于二十世纪八十年代初为微机上应用CAD技术而开发的绘图程序软件包，经过不断的完美，现已经成为国际上广为流行的绘图工具。 
+　　AutoCAD可以绘制任意二维和三维图形，并且同传统的手工绘图相比，用AutoCAD绘图速度更快、精度更高、而且便于个性，它已经在航空航天、造船、建筑、机械、电子、化工、美工、轻纺等很多领域得到了广泛应用，并取得了丰硕的成果和巨大的经济效益。
+　　AutoCAD具有良好的用户界面，通过交互菜单或命令行方式便可以进行各种操作。它的多文档设计环境，让非计算机专业人员也能很快地学会使用。在不断实践的过程中更好地掌握它的各种应用和开发技巧，从而不断提高工作效率。
+　　AutoCAD具有广泛的适应性，它可以在各种操作系统支持的微型计算机和工作站上运行，并支持分辨率由320×200到2048×1024的各种图形显示设备40多种，以及数字仪和鼠标器30多种，绘图仪和打印机数十种，这就为AutoCAD的普及创造了条件。
+　　AutoCAD的发展过程可分为初级阶段、发展阶段、高级发展阶段、完善阶段和进一步完善阶段五个阶段。
+　　在初级阶段里AutoCAD更新了五个版本。
+　　1982年11月，首次推出了AutoCAD 1.0版本；
+　　1983年4月，推出了AutoCAD 1.2版本；
+　　1983年8月，推出了AutoCAD 1.3版本；
+　　1983年10月，推出了AutoCAD 1.4版本；
+　　1984年10月，推出了AutoCAD 2.0版本。
+　　在发展阶段里，AutoCAD更新了以下版本。
+　　1985年5月，推出了AutoCAD 2.17版本和2.18版本；
+　　1986年6月，推出了AutoCAD 2.5版本。
+　　1987年9月后，陆续推出了AutoCAD 9.0版本和9.03版本。
+　　在高级发展阶段里，AutoCAD经历了三个版本，使AutoCAD的高级协助设计功能逐步完善。它们是1988年8月推出的AutoCAD 10.0版本、1990年推出的11.0版本和1992年推出的12.0版本。
+　　在完善阶段中，AutoCAD经历了三个版本，逐步由DOS平台转向Windows平台。
+　　1996年6月，AutoCAD R13版本问世；
+　　1998年1月，推出了划时代的AutoCAD R14版本；
+　　1999年1月，AutoCAD公司推出了AutoCAD 2000版本。
+　　在进一步完善阶段中，AutoCAD经历了两个版本，功能逐渐加强。
+　　2001年9月Autodesk公司向用户发布了AutoCAD 2002版本。
+　　2003年5月，Autodesk公司在北京正式宣布推出其AutoCAD软件的划时代版本——AutoCAD 2004简体中文版。
+　　在AutoCAD 2004的基础上，Autodesk公司还同时发布了针对建筑业、基础设施和机械制造业的10个行业应用解决方案。AutoCAD 2004与它的前一版本AutoCAD 2002相比，在速度、数据共享和软件管理方面有显著的改进和提高。
+　　AutoCAD 2004的速度比AutoCAD 2002提高24%，网络性能提升了28%，DWG文件大小平均减小44%，可将服务器磁盘空间要求减少40%——60%。
+　　在数据共享方面，AutoCAD 2004采用改进的DWF文件格式——DWF 6，支持在出版和查看中安全地进行共享；并通过参考变更的自动通知、在线内容获取、CAD标准检查、数字签字检查等技术提供了方便、快捷、安全的数据共享环境。
+　　此外，AutoCAD 2004与业界标准工具SMS、Windows Advertising等兼容，并提供免费的图档查看工具Express Tools，在许可证管理、安装实施等方面都可以节省大量的时间和成本。
+　　AutoCAD 2004拥有轻松的设计环境，它将把用户的注意力从键盘、鼠标和其它输入设备转移到设计上来。在完成任务的自动化方面，AutoCAD 2004还向用户提供实时的信息和数据访问，帮助用户进行设计。 
+
+
+ACADR2002系统变量
+
+ACADLSPASDOC 控制 AutoCAD 是将 acad.lsp 文件加载到所有图形中，还是仅加载到在 AutoCAD 任务中打开的第一个文件中 
+ACADPREFIX 存储由 ACAD 环境变量指定的目录路径（如果有的话），如果需要则添加路径分隔符 
+ACADVER 存储 AutoCAD 版本号 
+ACISOUTVER 控制 ACISOUT 命令创建的 SAT 文件的 ACIS 版本 
+AFLAGS 设置 ATTDEF 位码的属性标志 
+ANGBASE 设置相对当前 UCS 的 0 度基准角方向 
+ANGDIR 设置相对当前 UCS 以 0 度为起点的正角度方向 
+APBOX 打开或关闭 AutoSnap 靶框 
+APERTURE 以像素为单位设置对象捕捉的靶框尺寸 
+AREA 存储由 AREA、LIST 或 DBLIST 计算出来的最后一个面积 
+ATTDIA 控制 -INSERT 是否使用对话框获取属性值 
+ATTMODE 控制属性的显示方式 
+ATTREQ 确定 INSERT 在插入块时是否使用缺省属性设置 
+AUDITCTL 控制 AUDIT 命令是否创建核查报告文件 (ADT) 
+AUNITS 设置角度单位 
+AUPREC 设置角度单位的小数位数 
+AUTOSNAP 控制 AutoSnap 标记、工具栏提示和磁吸 
+
+BACKZ 存储当前视口后剪裁平面到目标平面的偏移值 
+BINDTYPE 控制绑定或在位编辑外部参照时外部参照名称的处理方式 
+BLIPMODE 控制点标记是否可见 
+
+CDATE 设置日历的日期和时间 
+CECOLOR 设置新对象的颜色 
+CELTSCALE 设置当前对象的线型比例缩放因子 
+CELTYPE 设置新对象的线型 
+CELWEIGHT 设置新对象的线宽 
+CHAMFERA 设置第一个倒角距离 
+CHAMFERB 设置第二个倒角距离 
+CHAMFERC 设置倒角长度 
+CHAMFERD 设置倒角角度 
+CHAMMODE 设置 AutoCAD 创建倒角的输入模式 
+CIRCLERAD 设置缺省的圆半径 
+CLAYER 设置当前图层 
+CMDACTIVE 存储一个位码值，此位码值标识激活的是普通命令、透明命令、脚本还是对话框 
+CMDECHO 控制 AutoLISP 的 (command) 函数运行时 AutoCAD 是否回显提示和输入 
+CMDNAMES 显示活动命令和透明命令的名称 
+CMLJUST 指定多线对正方式 
+CMLSCALE 控制多线的全局宽度 
+CMLSTYLE 设置多线样式 
+COMPASS 控制当前视口中三维坐标球的开关状态 
+COORDS 控制状态栏上的坐标更新方式 
+CPLOTSTYLE 控制新对象的当前打印样式 
+CPROFILE 存储当前配置文件的名称 
+CTAB 返回图形中的当前选项卡（模型或布局）名称。通过本系统变量，用户可以确定当前的活动选项卡 
+CURSORSIZE 按屏幕大小的百分比确定十字光标的大小 
+CVPORT 设置当前视口的标识号 
+
+DATE 存储当前日期和时间 
+DBMOD 用位码表示图形的修改状态 
+DCTCUST 显示当前自定义拼写词典的路径和文件名 
+DCTMAIN 本系统变量显示当前的主拼写词典的文件名 
+DEFLPLSTYLE 为新图层指定缺省打印样式名称 
+DEFPLSTYLE 为新对象指定缺省打印样式名称 
+DELOBJ 控制用来创建其他对象的对象将从图形数据库中删除还是保留在图形数据库中 
+DEMANDLOAD 在图形包含由第三方应用程序创建的自定义对象时，指定 AutoCAD 是否以及何时要求加载此应用程序 
+DIASTAT 存储最近一次使用对话框的退出方式 
+DIMADEC 控制角度标注显示精度的小数位 
+DIMALT 控制标注中换算单位的显示 
+DIMALTD 控制换算单位中小数的位数 
+DIMALTF 控制换算单位中的比例因子 
+DIMALTRND 决定换算单位的舍入 
+DIMALTTD 设置标注换算单位公差值的小数位数 
+DIMALTTZ 控制是否对公差值作消零处理 
+DIMALTU 设置所有标注样式族成员（角度标注除外）的换算单位的单位格式 
+DIMALTZ 控制是否对换算单位标注值作消零处理 
+DIMAPOST 指定所有标注类型（角度标注除外）换算标注测量值的文字前缀或后缀（或两者都指定） 
+DIMASO 控制标注对象的关联性 
+DIMASZ 控制尺寸线、引线箭头的大小 
+DIMATFIT 当尺寸界线的空间不足以同时放下标注文字和箭头时，确定这两者的排列方式 
+DIMAUNIT 设置角度标注的单位格式 
+DIMAZIN 对角度标注作消零处理 
+DIMBLK 设置显示在尺寸线或引线末端的箭头块 
+DIMBLK1 当 DIMSAH 为开时，设置尺寸线第一个端点的箭头 
+DIMBLK2 当 DIMSAH 为开时，设置尺寸线第二个端点的箭头 
+DIMCEN 控制由 DIMCENTER、DIMDIAMETER 和 DIMRADIUS 绘制的圆或圆弧的圆心标记和中心线 
+DIMCLRD 为尺寸线、箭头和标注引线指定颜色 
+DIMCLRE 为尺寸界线指定颜色 
+DIMCLRT 为标注文字指定颜色 
+DIMDEC 设置标注主单位显示的小数位位数 
+DIMDLE 当使用小斜线代替箭头进行标注时，设置尺寸线超出尺寸界线的距离 
+DIMDLI 控制基线标注中尺寸线的间距 
+DIMDSEP 指定一个单独的字符作为创建十进制标注时使用的小数分隔符 
+DIMEXE 指定尺寸界线超出尺寸线的距离 
+DIMEXO 指定尺寸界线偏离原点的距离 
+DIMFIT 已废弃。现由 DIMATFIT 和 DIMTMOVE 代替 
+DIMFRAC 设置当 DIMLUNIT 被设为 4（建筑）或 5（分数）时的分数格式 
+DIMGAP 在尺寸线分段以放置标注文字时，设置标注文字周围的距离 
+DIMJUST 控制标注文字的水平位置 
+DIMLDRBLK 指定引线的箭头类型 
+DIMLFAC 设置线性标注测量值的比例因子 
+DIMLIM 将极限尺寸生成为缺省文字 
+DIMLUNIT 为所有标注类型（角度标注除外）设置单位 
+DIMLWD 指定尺寸线的线宽 
+DIMLWE 指定尺寸界线的线宽 
+DIMPOST 指定标注测量值的文字前缀或后缀（或两者都指定） 
+DIMRND 将所有标注距离舍入到指定值 
+DIMSAH 控制尺寸线箭头块的显示 
+DIMSCALE 为标注变量（指定尺寸、距离或偏移量）设置全局比例因子 
+DIMSD1 控制是否禁止显示第一条尺寸线 
+DIMSD2 控制是否禁止显示第二条尺寸线 
+DIMSE1 控制是否禁止显示第一条尺寸界线 
+DIMSE2 控制是否禁止显示第二条尺寸界线 
+DIMSHO 控制是否重新定义拖动的标注对象 
+DIMSOXD 控制是否允许尺寸线绘制到尺寸界线之外 
+DIMSTYLE 显示当前标注样式 
+DIMTAD 控制文字相对尺寸线的垂直位置 
+DIMTDEC 设置标注主单位的公差值显示的小数位数 
+DIMTFAC 设置用来计算标注分数或公差文字的高度的比例因子 
+DIMTIH 控制所有标注类型（坐标标注除外）的标注文字在尺寸界线内的位置 
+DIMTIX 在尺寸界线之间绘制文字 
+DIMTM 当 DIMTOL 或 DIMLIM 为开时，为标注文字设置最大下偏差 
+DIMTMOVE 设置标注文字的移动规则 
+DIMTOFL 控制是否将尺寸线绘制在尺寸界线之间（即使文字放置在尺寸界线之外） 
+DIMTOH 控制标注文字在尺寸界线外的位置 
+DIMTOL 将公差添加到标注文字中 
+DIMTOLJ 设置公差值相对名词性标注文字的垂直对正方式 
+DIMTP 当 DIMTOL 或 DIMLIM 为开时，为标注文字设置最大上偏差 
+DIMTSZ 指定线性标注、半径标注以及直径标注中替代箭头的小斜线尺寸 
+DIMTVP 控制尺寸线上方或下方标注文字的垂直位置 
+DIMTXSTY 指定标注的文字样式 
+DIMTXT 指定标注文字的高度，除非当前文字样式具有固定的高度 
+DIMTZIN 控制是否对公差值作消零处理 
+DIMUNIT 已废弃，现由 DIMLUNIT 和 DIMFRAC 代替 
+DIMUPT 控制用户定位文字的选项 
+DIMZIN 控制是否对主单位值作消零处理 
+DISPSILH 控制线框模式下实体对象轮廓曲线的显示 
+DISTANCE 存储由 DIST 计算的距离 
+DONUTID 设置圆环的缺省内直径 
+DONUTOD 设置圆环的缺省外直径 
+DRAGMODE 控制拖动对象的显示 
+DRAGP1 设置重生成拖动模式下的输入采样率 
+DRAGP2 设置快速拖动模式下的输入采样率 
+DWGCHECK 确定图形最后是否经非 AutoCAD 程序编辑 
+DWGCODEPAGE 存储与 SYSCODEPAGE 系统变量相同的值（出于兼容性的原因） 
+DWGNAME 存储用户输入的图形名 
+DWGPREFIX 存储图形文件的“驱动器/目录”前缀 
+DWGTITLED 指出当前图形是否已命名 
+
+EDGEMODE 控制 TRIM 和 EXTEND 确定剪切边和边界的方式 
+ELEVATION 存储当前空间的当前视口中相对于当前 UCS 的当前标高值 
+EXPERT 控制是否显示某些特定提示 
+EXPLMODE 控制 EXPLODE 是否支持比例不一致 (NUS) 的块 
+EXTMAX 存储图形范围右上角点的坐标 
+EXTMIN 存储图形范围左下角点的坐标 
+EXTNAMES 为存储于符号表中的已命名对象名称（例如线型和图层）设置参数 
+
+FACETRATIO 控制圆柱或圆锥 ACIS 实体镶嵌面的宽高比 
+FACETRES 调整着色对象和渲染对象的平滑度，对象的隐藏线被删除 
+FILEDIA 禁止显示文件对话框 
+FILLETRAD 存储当前的圆角半径 
+FILLMODE 指定多线、宽线、二维填充、所有图案填充（包括实体填充）和宽多段线是否被填充 
+FONTALT 指定在找不到指定的字体文件时使用的替换字体 
+FONTMAP 指定要用到的字体映射文件 
+FRONTZ 存储当前视口中前剪裁平面到目标平面的偏移量 
+FULLOPEN 指示当前图形是否被局部打开 
+
+GRIDMODE 打开或关闭栅格 
+GRIDUNIT 指定当前视口的栅格间距（X 和 Y 方向） 
+GRIPBLOCK 控制块中夹点的分配 
+GRIPCOLOR 控制未选定夹点（绘制为轮廓框）的颜色 
+GRIPHOT 控制选定夹点（绘制为实心块）的颜色 
+GRIPS 控制“拉伸”、“移动”、“旋转”、“比例” 和“镜像”夹点模式中选择集夹点的使用 
+GRIPSIZE 以像素为单位设置显示夹点框的大小 
+
+HANDLES 报告应用程序是否可以访问对象句柄 
+HIDEPRECISION 控制消隐和着色的精度 
+HIGHLIGHT 控制对象的亮显。它并不影响使用夹点选定的对象 
+HPANG 指定填充图案的角度 
+HPBOUND 控制 BHATCH 和 BOUNDARY 创建的对象类型 
+HPDOUBLE 指定用户定义图案的交叉填充图案 
+HPNAME 设置缺省的填充图案名称 
+HPSCALE 指定填充图案的比例因子 
+HPSPACE 为用户定义的简单图案指定填充图案的线间距 
+HYPERLINKBASE 指定图形中用于所有相对超级链接的路径  
+ 
+ 2004-9-8 11:10 AM 
+
+
+IMAGEHLT 控制是亮显整个光栅图像还是仅亮显光栅图像边框 
+INDEXCTL 控制是否创建图层和空间索引并保存到图形文件中 
+INETLOCATION 存储 BROWSER 和“浏览 Web 对话框”使用的 Internet 网址 
+INSBASE 存储 BASE 设置的插入基点 
+INSNAME 为 INSERT 设置缺省块名 
+INSUNITS 当从 AutoCAD 设计中心拖放块时，指定图形单位值 
+INSUNITSDEFSOURCE 设置源内容的单位值 
+INSUNITSDEFTARGET 设置目标图形的单位值 
+ISAVEBAK 提高增量保存速度，特别是对于大的图形 
+ISAVEPERCENT 确定图形文件中所允许的占用空间的总量 
+ISOLINES 指定对象上每个曲面的轮廓素线的数目 
+
+LASTANGLE 存储上一个输入圆弧的端点角度 
+LASTPOINT 存储上一个输入的点 
+LASTPROMPT 存储显示在命令行中的上一个字符串 
+LENSLENGTH 存储当前视口透视图中的镜头焦距长度（以毫米为单位） 
+LIMCHECK 控制在图形界限之外是否可以生成对象 
+LIMMAX 存储当前空间的右上方图形界限 
+LIMMIN 存储当前空间的左下方图形界限 
+LISPINIT 当使用单文档界面时，指定打开新图形时是否保留 AutoLISP 定义的函数和变量 
+LOCALE 显示用户运行的当前 AutoCAD 版本的国际标准化组织 (ISO) 语言代码 
+LOGFILEMODE 指定是否将文本窗口的内容写入日志文件 
+LOGFILENAME 指定日志文件的路径和名称 
+LOGFILEPATH 为同一任务中的所有图形指定日志文件的路径 
+LOGINNAME 显示加载 AutoCAD 时配置或输入的用户名 
+LTSCALE 设置全局线型比例因子 
+LUNITS 设置线性单位 
+LUPREC 设置线性单位的小数位数 
+LWDEFAULT 设置缺省线宽的值 
+LWDISPLAY 控制“模型”或“布局”选项卡中的线宽显示 
+LWUNITS 控制线宽的单位显示为英寸还是毫米 
+
+MAXACTVP 设置一次最多可以激活多少视口 
+MAXSORT 设置列表命令可以排序的符号名或块名的最大数目 
+MBUTTONPAN 控制定点设备第三按钮或滑轮的动作响应 
+MEASUREINIT 设置初始图形单位（英制或公制） 
+MEASUREMENT 设置当前图形的图形单位（英制或公制） 
+MENUCTL 控制屏幕菜单中的页切换 
+MENUECHO 设置菜单回显和提示控制位 
+MENUNAME 存储菜单文件名，包括文件名路径 
+MIRRTEXT 控制 MIRROR 对文字的影响 
+MODEMACRO 在状态行显示字符串 
+MTEXTED 设置用于多行文字对象的首选和次选文字编辑器 
+
+NOMUTT 禁止消息显示，即不反馈工况（如果这些消息在通常情况下并不禁止） 
+
+OFFSETDIST 设置缺省的偏移距离 
+OFFSETGAPTYPE 控制如何偏移多段线以弥补偏移多段线的单个线段所留下的间隙 
+OLEHIDE 控制 AutoCAD 中 OLE 对象的显示 
+OLEQUALITY 控制内嵌的 OLE 对象质量缺省的级别 
+OLESTARTUP 控制打印内嵌 OLE 对象时是否加载其源应用程序 
+ORTHOMODE 限制光标在正交方向移动 
+OSMODE 使用位码设置执行对象捕捉模式 
+OSNAPCOORD 控制是否从命令行输入坐标替代对象捕捉 
+
+PAPERUPDATE 控制警告对话框的显示（如果试图以不同于打印配置文件缺省指定的图纸大小打印布局） 
+PDMODE 控制如何显示点对象 
+PDSIZE 设置显示的点对象大小 
+PERIMETER 存储 AREA、LIST 或 DBLIST 计算的最后一个周长值 
+PFACEVMAX 设置每个面顶点的最大数目 
+PICKADD 控制后续选定对象是替换当前选择集还是追加到当前选择集中 
+PICKAUTO 控制“选择对象”提示下是否自动显示选择窗口 
+PICKBOX 设置选择框的高度 
+PICKDRAG 控制绘制选择窗口的方式 
+PICKFIRST 控制在输入命令之前（先选择后执行）还是之后选择对象 
+PICKSTYLE 控制编组选择和关联填充选择的使用 
+PLATFORM 指示 AutoCAD 工作的操作系统平台 
+PLINEGEN 设置如何围绕二维多段线的顶点生成线型图案 
+PLINETYPE 指定 AutoCAD 是否使用优化的二维多段线 
+PLINEWID 存储多段线的缺省宽度 
+PLOTID 已废弃，在 AutoCAD 2000 中没有效果，但在保持 AutoCAD 2000 以前版本的脚本和 LISP 程序的完整性时还可能有用 
+PLOTROTMODE 控制打印方向 
+PLOTTER 已废弃，在 AutoCAD 2000 中没有效果，但在保持 AutoCAD 2000 以前版本的脚本和 LISP 程序的完整性时还可能有用 
+PLQUIET 控制显示可选对话框以及脚本和批打印的非致命错误 
+POLARADDANG 包含用户定义的极轴角 
+POLARANG 设置极轴角增量 
+POLARDIST 当 SNAPSTYL 系统变量设置为 1（极轴捕捉）时，设置捕捉增量 
+POLARMODE 控制极轴和对象捕捉追踪设置 
+POLYSIDES 设置 POLYGON 的缺省边数 
+POPUPS 显示当前配置的显示驱动程序状态 
+PRODUCT 返回产品名称 
+PROGRAM 返回程序名称 
+PROJECTNAME 给当前图形指定一个工程名称 
+PROJMODE 设置修剪和延伸的当前“投影”模式 
+PROXYGRAPHICS 指定是否将代理对象的图像与图形一起保存 
+PROXYNOTICE 如果打开一个包含自定义对象的图形，而创建此自定义对象的应用程序尚未加载时，显示通知 
+PROXYSHOW 控制图形中代理对象的显示 
+PSLTSCALE 控制图纸空间的线型比例 
+PSPROLOG 为使用 PSOUT 时从 acad.psf 文件读取的前导段指定一个名称 
+PSQUALITY 控制 Posts cript 图像的渲染质量 
+PSTYLEMODE 指明当前图形处于“颜色相关打印样式”还是“命名打印样式”模式 
+PSTYLEPOLICY 控制对象的颜色特性是否与其打印样式相关联 
+PSVPSCALE 为新创建的视口设置视图缩放比例因子 
+PUCSBASE 存储仅定义图纸空间中正交 UCS 设置的原点和方向的 UCS 名称 
+
+QTEXTMODE 控制文字的显示方式 
+
+RASTERPREVIEW 控制 BMP 预览图像是否随图形一起保存 
+REFEDITNAME 指示图形是否处于参照编辑状态，并存储参照文件名 
+REGENMODE 控制图形的自动重生成 
+RE-INIT 初始化数字化仪、数字化仪端口和 acad.pgp 文件 
+RTDISPLAY 控制实时缩放 (ZOOM) 或平移 (PAN) 时光栅图像的显示 
+
+SAVEFILE 存储当前用于自动保存的文件名 
+SAVEFILEPATH 为 AutoCAD 任务中所有自动保存文件指定目录的路径 
+SAVENAME 在保存图形之后存储当前图形的文件名和目录路径 
+SAVETIME 以分钟为单位设置自动保存的时间间隔 
+SCREENBOXES 存储绘图区域的屏幕菜单区显示的框数 
+SCREENMODE 存储表示 AutoCAD 显示的图形/文本状态的位码值 
+SCREENSIZE 以像素为单位存储当前视口的大小（X 和 Y 值） 
+SDI 控制 AutoCAD 运行于单文档还是多文档界面 
+SHADEDGE 控制渲染时边的着色 
+SHADEDIF 设置漫反射光与环境光的比率 
+SHORTCUTMENU 控制“缺省”、“编辑”和“命令”模式的快捷菜单在绘图区域是否可用 
+SHPNAME 设置缺省的形名称 
+SKETCHINC 设置 SKETCH 使用的记录增量 
+SKPOLY 确定 SKETCH 生成直线还是多段线 
+SNAPANG 为当前视口设置捕捉和栅格的旋转角 
+SNAPBASE 相对于当前 UCS 设置当前视口中捕捉和栅格的原点 
+SNAPISOPAIR 控制当前视口的等轴测平面 
+SNAPMODE 打开或关闭“捕捉”模式 
+SNAPSTYL 设置当前视口的捕捉样式 
+SNAPTYPE 设置当前视口的捕捉样式 
+SNAPUNIT 设置当前视口的捕捉间距 
+SOLIDCHECK 打开或关闭当前 AutoCAD 任务中的实体校验 
+SORTENTS 控制 OPTIONS 命令（从“选择”选项卡中执行）对象排序操作 
+SPLFRAME 控制样条曲线和样条拟合多段线的显示 
+SPLINESEGS 设置为每条样条拟合多段线生成的线段数目 
+SPLINETYPE 设置用 PEDIT 命令的“样条曲线”选项生成的曲线类型 
+SURFTAB1 设置 RULESURF 和 TABSURF 命令所用到的网格面数目 
+SURFTAB2 设置 REVSURF 和 EDGESURF 在 N 方向上的网格密度 
+SURFTYPE 控制 PEDIT 命令的“平滑”选项生成的拟合曲面类型 
+SURFU 设置 PEDIT 的“平滑”选项在 M 方向所用到的表面密度 
+SURFV 设置 PEDIT 的“平滑”选项在 N 方向所用到的表面密度 
+SYSCODEPAGE 指示 acad.xmf 中指定的系统代码页 
+
+TABMODE 控制数字化仪的使用 
+TARGET 存储当前视口中目标点的位置 
+TDCREATE 存储图形创建的本地时间和日期 
+TDINDWG 存储总编辑时间 
+TDUCREATE 存储图形创建的国际时间和日期 
+TDUPDATE 存储最后一次更新/保存的本地时间和日期 
+TDUSRTIMER 存储用户消耗的时间 
+TDUUPDATE 存储最后一次更新/保存的国际时间和日期 
+TEMPPREFIX 包含用于放置临时文件的目录名 
+TEXTEVAL 控制处理字符串的方式 
+TEXTFILL 控制打印、渲染以及使用 PSOUT 命令输出时 TrueType 字体的填充方式 
+TEXTQLTY 控制打印、渲染以及使用 PSOUT 命令输出时 TrueType 字体轮廓的分辨率 
+TEXTSIZE 设置以当前文字样式绘制出来的新文字对象的缺省高度 
+TEXTSTYLE 设置当前文字样式的名称 
+THICKNESS 设置当前三维实体的厚度 
+TILEMODE 将“模型”或最后一个布局选项卡设置为当前选项卡 
+TOOLTIPS 控制工具栏提示的显示 
+TRACEWID 设置宽线的缺省宽度 
+TRACKPATH 控制显示极轴和对象捕捉追踪的对齐路径 
+TREEDEPTH 指定最大深度，即树状结构的空间索引可以分出分枝的最大数目 
+TREEMAX 通过限制空间索引（八叉树）中的节点数目，从而限制重新生成图形时占用的内存 
+TRIMMODE 控制 AutoCAD 是否修剪倒角和圆角的边缘 
+TSPACEFAC 控制多行文字的行间距。以文字高度的比例计算t 
+TSPACETYPE 控制多行文字中使用的行间距类型 
+TSTACKALIGN 控制堆叠文字的垂直对齐方式 
+TSTACKSIZE 控制堆叠文字分数的高度相对于选定文字的当前高度的百分比 
+
+UCSAXISANG 存储使用 UCS 命令的 X，Y 或 Z 选项绕轴旋转 UCS 时的缺省角度值 
+UCSBASE 存储定义正交 UCS 设置的原点和方向的 UCS 名称 
+UCSFOLLOW 用于从一个 UCS 转换到另一个 UCS 时生成一个平面视图 
+UCSICON 显示当前视口的 UCS 图标 
+UCSNAME 存储当前空间中当前视口的当前坐标系名称 
+UCSORG 存储当前空间中当前视口的当前坐标系原点 
+UCSORTHO 确定恢复一个正交视图时是否同时自动恢复相关的正交 UCS 设置 
+UCSVIEW 确定当前 UCS 是否随命名视图一起保存 
+UCSVP 确定活动视口的 UCS 保持定态还是作相应改变以反映当前活动视口的 UCS 状态 
+UCSXDIR 存储当前空间中当前视口的当前 UCS 的 X 方向 
+UCSYDIR 存储当前空间中当前视口的当前 UCS 的 Y 方向 
+UNDOCTL 存储指示 UNDO 命令的“自动”和“控制”选项的状态的位码 
+UNDOMARKS 存储“标记”选项放置在 UNDO 控制流中的标记数目 
+UNITMODE 控制单位的显示格式 
+USERI1-5 存储和提取整型值 
+USERR1-5 存储和提取实型值 
+USERS1-5 存储和提取字符串数据 
+
+VIEWCTR 存储当前视口中视图的中心点 
+VIEWDIR 存储当前视口中的查看方向 
+VIEWMODE 使用位码控制当前视口的查看模式 
+VIEWSIZE 存储当前视口的视图高度 
+VIEWTWIST 存储当前视口的视图扭转角 
+VISRETAIN 控制外部参照依赖图层的可见性、颜色、线型、线宽和打印样式（如果 PSTYLEPOLICY 设置为 0），并且指定是否保存对嵌套外部参照路径的修改 
+VSMAX 存储当前视口虚屏的右上角坐标 
+VSMIN 存储当前视口虚屏的左下角坐标 
+
+WHIPARC 控制圆或圆弧是否平滑显示 
+WMFBKGND 控制 WMFOUT 命令输出的 Windows 图元文件、剪贴板中对象的图元格式以及拖放到其他应用程序的图元的背景 
+WORLDUCS 指示 UCS 是否与 WCS 相同 
+WORLDVIEW 确定响应 3DORBIT、DVIEW 和 VPOINT 命令的输入是相对于 WCS（缺省），还是相对于当前 UCS 或由 UCSBASE 系统变量指定的 UCS 
+WRITESTAT 指出图形文件是只读的还是可写的。开发人员需要通过 AutoLISP 确定文件的读写状态 
+
+XCLIPFRAME 控制外部参照剪裁边界的可见性 
+XEDIT 控制当前图形被其他图形参照时是否可以在位编辑 
+XFADECTL 控制在位编辑参照时的褪色度 
+XLOADCTL 打开或关闭外部参照文件的按需加载功能，控制打开原始图形还是打开一个副本 
+XLOADPATH 创建一个路径用于存储按需加载的外部参照文件临时副本 
+XREFCTL 控制 AutoCAD 是否生成外部参照的日志文件 (XLG) 
+
+ZOOMFACTOR 控制智能鼠标的每一次前移或后退操作所执行的缩放增量 
+
+
+ATUOCAD中实体的选择方式
+大家知道，在ATUOCAD中，对作图对象的编辑随时会牵涉到选取对象。具体如何最快捷、方便地利用AUTOCAD所提供的选择工具快速地选中物体是快速编辑图形的关键。读者可在ATUOCAD的命令行，键入“Select”后回车，我们将看到各种选择实体的方法选项。本文拟详细介绍ATUOCAD中选择实体（Select Objects）的方法，包括一些平常我们很少知道的选项。
+　　一、直接点取方式（默认）
+　　通过鼠标或其他输入设备直接点取实体，后实体呈高亮度显示，表示该实体已被选中，我们就可以对其进行编辑。大家可以在AUTOCAD 的“Tools”菜单中调用“Options…”弹出“Options”对话框，选择“Selection”选项卡来设置选择框的大小（读者可以自己根据情况尝试修改，以达到满意的效果）。如果我们在“选择实体：”的提示下输入AU（AUto），效果就等同于“直接点取方式”。
+　　二、窗口方式
+　　当命令行出现“Select Objects：”提示时，如果将点取框移到图中空白地方并按住　　鼠标左键，ATUOCAD会提示：另一角，此时如果将点取框移到另一位置后按鼠标左健，ATUOCAD会自动以这两个点取点作为矩形的对顶点，确定一默认的矩形窗口。如果窗口是从左向右定义的，框内的实体全被选中，而位于窗口外部以及与窗口相交的实体均未被选中；若矩形框窗口是从右向左定义的，那么不仅位于窗口内部的对象被选中，而且与窗口边界相交的对象也被选中。事实上，从左向右定义的框是实线框，从右向左定义的框是虚线框（大家不妨注意观察一下）。对于窗口方式，也可以在“Select Objects：”的提示下直接输入W(Windows)，则进入窗口选择方式，不过，在此情况下，无论定义窗口是从左向右还是从右向左，均为实线框。如果我们在“Select Objects：”提示下输入BOX，然后再选择实体，则会出现与默认的窗口选择方式完全一样。
+三、交叉选择
+　　当提示“Select Objects：”时，键入C（Crossing），则无论从哪个方向定义矩形框，均为虚线框，均为交叉选择实体方式，只要虚线框经过的地方，实体无论与其相交或包含在框内，均被选中。
+　　四、组方式
+　　将若干个对象编组，当提示“Select Objects：”时，键入G(group)后回车，接着命令行出现“输入组名：”在此提示下输入组名后回车，那么所对应的图形均被选取，这种方式适用于那些需要频繁进行操作的对象。另外，如果在“Select Objects：”提示下，直接选取某一个对象，则此对象所属的组中的物体将全部被选中。
+　　五、前一方式
+　　利用此功能，可以将前一次编辑操作的选择对象作为当前选择集。在“Select Objects：”提示下键入P(previous))后回车，则将执行当前编辑命令以前最后一次构造的选择集作为当前选择集。
+　　六、最后方式
+利用此功能可将前一次所绘制的对象作为当前的选择集。在“Select Objects：”提示下键入L(last)后回车，ATUOCAD则自动选择最后绘出的那一个对象。
+　　七、全部方式
+利用此功能可将当前图形中所有对象作为当前选择集。在“Select Objects：”提示下键入ALL（注意：不可以只键入“A”）后回车，ATUOCAD则自动选择所有的对象。
+　　八、不规则窗口方式
+　　在：“Select Objects：”提示下输入WP（wpolygon）后回车，则可以构造一任意闭合不规则多边形，在此多边形内的对象均被选中（读者可能会注意到，此时的多边形框是实线框，它就类似于从左向右定义的矩形窗口的选择方法）。
+　　九、不规则交叉窗口方式
+　　在“Select Objects：”提示下键入CP（cpolygon交叉多边形）并回车，则可以构造一任意不规则多边形，在此多边形内的对象以及一切与多边形相交的对象均被选中（此时的多边形框是虚线框，它就类似于从右向左定义的矩形窗口的选择方法）。
+　　十、围线方式
+　　该方式与不规则交叉窗口方式相类似（虚线），但它不用围成一封闭的多边形，执行该方式时，与围线相交的图形均被选中。在“Select Objects：”提示下输入F（fence）后即可进入此方式。
+　　十一、扣除方式
+　　在此模式下，我们可以让一个或一部分对象退出选择集。在“Select Objects：”提示下键入R（remove）即可进入此模式。
+　　十二、返回到加入方式
+　　在扣除模式下，即“Remove Objects：”提示下键入A（add）并回车，ATUOCAD会再提示：“Select Objects：”则返回到加入模式。
+　　十三、多选
+　　同样，要求选择实体时，输入M（Multiple），指定多次选择而不高亮显示对象，从而加快对复杂对象的选择过程。如果两次指定相交对象的交点，“多选”也将选中这两个相交对象。
+　　十四、单选
+　　在要求选择实体的情况下，如果我们只想编辑一个实体（或对象），我们可以输入SI（SIngle）来选择我们要编辑的对象，则每次只可以编辑一个对象。
+　　十五、交替选择对象
+　　当在“Select Objects：”提示下选取某对象时，如果该对象与其他一些对象相距很近，那么就很难准确地点取到此对象。但是我们可以使用“交替对象选择法”。在“Select Objects：”提示下，按下Ctrl键，将点取框压住要点取的对象，然后单击鼠标左键，这时点取框所压住的对象之一被选中，并且光标也随之变成十字状。如果该选中对象不是所要对象，松开Ctrl键，继续单击鼠标左键，随着每一次鼠标的单击，ATUOCAD会变换选中点取框所压住的对象，这样，用户就可以方便地选择某一对象了。
+十六、快速选择
+　　这是AUTOCAD2000的新增功能，通过它可得到一个按过滤条件构造的选择集。输入命令QSELECT后，弹出“快速选择”对话框，就可以按指定的过滤对象的类型和指定对象欲过滤的特性、过滤范围等进行选择。也可以在AUTOCAD2000的绘图窗口中按鼠标右键，菜单中含有“QUICKSELECT”选项。不过，需要注意的是，如果我们所设定的选择对象特性是“随层”的话，将不能使用这项功能。
+　　十七、用选择过滤器选择（FILTER）
+　　在AUTOCAD2000中，新增加了根据对象的特性构造选择集的功能。在命令行输入FILTER后，将弹出“对象选择过滤器”对话框，我们就可以构造一定的过滤器并且把他存盘，以后可以直接调用，就象我们调用“块”一样方便。
+注意以下三点：
+　　1、可先用选择过滤器选择对象，然后直接使用编辑命令，或在使用编辑命令提示选择对象时，输入P，即前一次选择来响应。
+　　2、在过滤条件中，颜色和线型不是指对象特性因为“随层”而具有的颜色和线型，而是用COLOUR，LINTYPE等命令特别指定给它的颜色和线型。
+　　3、已命名的过滤器不仅可以使用在定义它的图形中，还可用于其他图形中
+对于条件的选择方式，使用者可以使用颜色、线宽、线型等各种条件进行选择。
+　　以上内容，只是我在日常使用AUTOCAD的过程中所摸索得到的一点体会，只要大家在使用时多加注意并不断积累， AUTOCAD的强大功能会使我们的复杂的设计绘图工作变得很轻松。
+
+
+ARX程序的装载和卸载
+
+1.ARX程序的装载
+----ARX应用程序的装载有以下几种方法：
+----(1）在AutoCAD启动文件acad.rx中指定待装入的ARX应用程序名。acad.rx是ASCII文本文件，每个ARX应用程序必须单独占一行，AutoCAD启动时会自动装载该文件中的ARX应用程序。另外，应确保＄ACAD路径定义中包括文件acad.rx的存放目录。
+----(2）用acrxLoadModule()或AcRxDynamicLinker::loadModule()函数，在一个ARX应用程序里装载另一个ARX应用程序。这两个函数的原型是：
+----int acrxLoadModule(char * moduleName,int printit);
+----virtual Adesk::Boolean AcRxDynamicLinker::loadModule(char *fileName,int printIt)=0;
+----其中各参数含义如下：
+----moduleName：待装载的ARX应用程序名；ARX应用程序扩展名默认为.ARX，如果不是.ARX，则此处char＊moduleName参数必须包括应用程序扩展名。
+----fileName：含义与上述moduleName相同。但是fileName必须包括待装载的ARX应用程序的路径和扩展名。
+----printit：取0则不显示装载结果，取非0值则显示。当printit取非0值时，如装载成功，则在AutoCAD命令窗口显示“Runtime Extension is already loaded.\"，否则，显示“AcRx Dynamic Linker failed to load\"。
+----acrxLoadModule()与AcRxDynamicLinker::loadModule不同的是：acrxLoadModule()从＄ACAD定义的AutoCAD搜索路径自动搜索待装载的ARX应用程序，并默认ARX应用程序扩展名为.ARX。
+----(3）使用APPLOAD对话框。AutoCAD文件appload.lsp定义了使用AutoLISP函数arxload和arxunload装载和卸载ARX应用程序的用户接口。
+----(4）使用AutoLISP函数(arxload)。
+----(5）intads_arxload(constchar＊ArxAppName)函数。在ADS或ARX程序里使用该函数可将一个ARX模块装载到相应的ADS或ARX程序里。该函数的返回值表示装载结果。与该函数对应的AutoLISP函数是(arxload)。
+----用ads_arxload()和acrxLoadModule()装入一个ARX应用程序的区别是：用ads_arxload()装入的ARX应用程序不仅注册成一个ADS程序，同时还注册成一个ARX程序。
+
+----(6）ARX。这是一个AutoCAD命令。在AutoCAD命令行键入ARX，然后键入L后弹出对话框，指定待装载的ARX应用程序名即可。
+----2.ARX程序的卸载
+----与ARX程序的装载方法(2)～(6)相对应，ARX应用程序的卸载有5种方法，具体操作这里不再赘述。
+
+
+
+AutoCAD 2000中自定义填充图案
+
+在AutoCAD制图中，HATCH（图案填充）命令的使用较为频繁。CAD自带的图案库虽然内容丰富，但有时仍然不能满足我们的需要，这时我们可以自定义图案来进行填充。
+　　AutoCAD的填充图案都保存在一个名为acad.pat的库文件中，其缺省路径为安装目录的\Acad2000\Support目录下。我们可以用文本编辑器对该文件直接进行编辑，添加自定义图案的语句；也可以自己创建一个*.Pat文件，保存在相同目录下，CAD均可识别。 
+　　下面，我们就以新创建一个菱形花纹钢板图案库文件为例，来说明AutoCAD 2000中自定义图案的方法。 
+　　首先，在CAD中按国标作出菱形花纹图案，并标注各部分尺寸（见图，可点击放大）。 
+　　参看下面的库文件标准格式： 
+　　*pattern-name [, description] 
+　　angle, x-origin, y-origin, delta-x, delta-y [, dash-1, dash-2, ...] 
+　　第一行为标题行。星号后面紧跟的是图案名称，执行HATCH命令选择图案时，将显示该名称。方括号内是图案由 HATCH 命令的“?”选项显示时的可选说明。如果省略说明，则图案名称后不能有逗号。 
+第二行为图案的描述行。可以有一行或多行。其含义分别为：直线绘制的角度，填充直线族中的一条直线所经过的点的X、Y轴坐标，两填充直线间的位移量，两填充直线的垂直间距，dash-n为一条直线的长度参数，可取正负值或为零，取正值表示该长度段为实线，取负值表示该段为留空，取零则画点。 
+　　好了，我们可以开始编辑了。打开记事本，书写下如下： 
+　　*custom, steel plate GB/T3277-1991 
+　　68.4667, 0, 0, -9.8646, 25, 30.0213, -6.59 
+　　111.5333, 0, 0, 9.8646, 25, 30.0213, -6.59 
+　　68.4667, -11.0191, 27.926, -9.8646, 25, 30.0213, -6.59 
+　　111.5333, 11.0191, 27.926, 9.8646, 25, 30.0213, -6.59 
+　　本例中的四行图案描叙行分别对应图一中的线段a、b、c、d。对照图文，各项取值应不难理解。这里只着重讲叙一下delta-x与delta-y的取值规则，为方便理解，我们如图示设置UCS坐标系，确定原点与X轴正方向。线段a、e在Y轴上的垂直间距25构成delta-y，也相当于AutoCAD中的offset命令的取值25；如果线段e是由线段a经offset而来，这时线段e同时还相对于线段a沿X轴负方向移动了9.8646，这段位移也就是delta-x。 
+　　下面还有几个注意事项： 
+　　图案定义文件的每一行最多可包含 80 个字符。 
+　　AutoCAD 忽略空行和分号右边的文字。根据这一条，我们可以在文件中添加版权信息、备注或者是我们想加入的任何内容。例如： 
+　　;Copyright (c) 2000 by everyone. All rights reserved. 
+　　最后，将文件保存，取名custom.Pat。注意，文件名必须与图案名相同。 
+　　到此，相信各位朋友已经掌握了自定义图案的方法。现在，只需一点点耐心，你就可以编辑出非常复杂的图案了。 
+　　调用库文件的方法为：附頁為我做的填充圖樣及文件，解壓縮放在\Acad2000\Support目录下。打开AutoCAD，运行Hatch命令，在弹出的Boundary Hatch对话框的Type栏选中Custom，单击Swatch选项栏，弹出Hatch Pattern Palette对话框，选择Custom标签，指定我们刚创建的custom.Pat文件，此时右侧出现填充效果的预览，那正是我们需要的菱形花纹钢板图案。
+
+
+
+AutoCAD R14的图纸空间技术
+
+在用AutoCAD R14绘图时，若能充分理解并利用图纸空间技术，将能极大的提高绘图的效率。 
+在AutoCAD R14中绘图，必须了解模型空间、图纸空间和视区。
+模型空间主要用于绘制建筑具体图形； 
+图纸空间适合用于绘制标题栏，图纸边框及若干视区，用于打印出图。
+视区是模型空间与图纸空间的桥梁，在图纸空间绘制，其中显示的内容是模型空间的图形。 
+通过观察AutoCAD R14窗口右下角的状态标志，可知当前工作的空间，通过双击状态标志可在各种状态间切换  
+
+
+
+AutoCAD 2000快捷命令的使用
+
+AutoCAD 是目前世界各国工程设计人员的首选设计软件，简便易学、精确无误是AutoCAD成功的两个重要原因。AutoCAD提供的命令有很多，绘图时最常用的命令只有其中的百分之二十。采用键盘输入命令时由于有些常用命令较长，如 BHATCH(填充)、EXPLODE(分解)，在输入时击键次数多，影响了绘图速度。虽然AutoCAD 提供了完善的菜单和工具栏两种输入方法，但是要提高绘图速度，只有掌握Auto CAD提供的快捷的命令输入方法。 
+笔者在进行AutoCAD设计、培训和教学研究时，对于快捷命令的使用和管理积累了一些体验，现总结出，以供大家使用AutoCAD 2000时参考。 
+一、概述： 
+所谓的快捷命令，是AutoCAD为了提高绘图速度定义的快捷方式，它用一个或几个简单的字母来代替常用的命令，使我们不用去记忆众多的长长的命令，也不必为了执行一个命令，在菜单和工具栏上寻寻匿匿。所有定义的快捷命令都保存在AutoCAD安装目录下SUPPORT子目录中的ACAD.PGP文件中，我们可以通过修改该文件的内容来定义自己常用的快捷命令。 
+当我们每次新建或打开一个AutoCAD绘图文件时，CAD本身会自动搜索到安装目录下的SUPPORT路径，找到并读入ACAD.PGP文件。当AutoCAD正在运行的时候，我们可以通过命令行的方式，用ACAD.PGP文件里定义的快捷命令来完成一个操作，比如我们要画一条直线，只需要在命令行里输入字母“L”即可。 
+二、快捷命令的命名规律 
+1、 快捷命令通常是该命令英文单词的第一个或前面两个字母，有的是前三个字母。 
+比如，直线（Line）的快捷命令是“L”；复制（COpy）的快捷命令是“CO”；线型比例（LTScale）的快捷命令是“LTS”。 
+在使用过程中，试着用命令的第一个字母，不行就用前两个字母，最多用前三个字母，也就是说，AutoCAD的快捷命令一般不会超过三个字母，如果一个命令用前三个字母都不行的话，只能输入完整的命令。 
+2、 另外一类的快捷命令通常是由“Ctrl键 ＋ 一个字母”组成的，或者用功能键F1~F8来定义。比如Ctrl键＋“N”，Ctrl键＋“O”，Ctrl键＋“S”，Ctrl键＋“P”分别表示新建、打开、保存、打印文件；F3表示“对象捕捉”。 
+3、 如果有的命令第一个字母都相同的话，那么常用的命令取第一个字母，其它命令可用前面两个或三个字母表示。比如“R”表示Redraw，“RA”表示Redrawall；比如“L”表示Line，“LT”表示LineType，“LTS”表示LTScale。 
+4、 个别例外的需要我们去记忆，比如“修改文字”（DDEDIT）就不是“DD”，而是“ED”；还有“AA”表示Area,“T”表示Mtext, “X”表示 Explode。 
+三、快捷命令的定义 
+全面已经提到，AutoCAD所有定义的快捷命令都保存ACAD.PGP文件中。ACAD.PGP是一个纯文本文件，用户可以使用ASCⅡ文本编辑器(如DOS下的EDIT)或直接使用WINDOWS附件中的记事本来进行编辑。用户可以自行添加一些Auto CAD命令的快捷方式到文件中。 
+通常，快捷命令使用一个或两个易于记忆的字母，并用它来取代命令全名。快捷命令定义格式如下： 
+快捷命令名称， * 命令全名 
+如： CO ， * COPY 
+即键入快捷命令后，再键入一个逗号和快捷命令所替代的命令全称。AutoCAD的命令必须用一个星号作为前缀。 
+
+【参考文献】 
+陈通等，《AutoCAD 2000中文版入门与提高》，清华大学出版社，2000年7月出版 
+附：常见的快捷命令 
+（一）字母类 
+1、对象特性 
+ADC, *ADCENTER（设计中心“Ctrl＋2”） 
+CH, MO *PROPERTIES(修改特性“Ctrl＋1”) 
+MA, *MATCHPROP（属性匹配） 
+ST, *STYLE（文字样式） 
+COL, *COLOR（设置颜色） 
+LA, *LAYER（图层操作） 
+LT, *LINETYPE（线形） 
+LTS, *LTSCALE（线形比例） 
+LW, *LWEIGHT （线宽） 
+UN, *UNITS（图形单位） 
+ATT, *ATTDEF（属性定义） 
+ATE, *ATTEDIT（编辑属性） 
+BO, *BOUNDARY（边界创建，包括创建闭合多段线和面域） 
+AL, *ALIGN（对齐） 
+EXIT, *QUIT（退出） 
+EXP, *EXPORT（输出其它格式文件） 
+IMP, *IMPORT（输入文件） 
+OP,PR *OPTIONS（自定义CAD设置） 
+PRINT, *PLOT（打印） 
+PU, *PURGE（清除垃圾） 
+R, *REDRAW（重新生成） 
+REN, *RENAME（重命名） 
+SN, *SNAP（捕捉栅格） 
+DS, *DSETTINGS（设置极轴追踪） 
+OS, *OSNAP（设置捕捉模式） 
+PRE, *PREVIEW（打印预览） 
+TO, *TOOLBAR（工具栏） 
+V, *VIEW（命名视图） 
+AA, *AREA（面积） 
+DI, *DIST（距离） 
+LI, *LIST（显示图形数据信息） 
+2、绘图命令： 
+PO, *POINT（点） 
+L, *LINE（直线） 
+XL, *XLINE（射线） 
+PL, *PLINE（多段线） 
+ML, *MLINE（多线） 
+SPL, *SPLINE（样条曲线） 
+POL, *POLYGON（正多边形） 
+REC, *RECTANGLE（矩形） 
+C, *CIRCLE(圆) 
+A, *ARC(圆弧) 
+DO, *DONUT（圆环） 
+EL, *ELLIPSE（椭圆） 
+REG, *REGION（面域） 
+MT, *MTEXT（多行文本） 
+T, *MTEXT（多行文本） 
+B, *BLOCK（块定义） 
+I, *INSERT（插入块） 
+W, *WBLOCK（定义块文件） 
+DIV, *DIVIDE（等分） 
+H, *BHATCH（填充） 
+3、修改命令： 
+CO, *COPY（复制） 
+MI, *MIRROR（镜像） 
+AR, *ARRAY（阵列） 
+O, *OFFSET（偏移） 
+RO, *ROTATE（旋转） 
+M, *MOVE（移动） 
+E, DEL键 *ERASE（删除） 
+X, *EXPLODE（分解） 
+TR, *TRIM（修剪） 
+EX, *EXTEND（延伸） 
+S, *STRETCH（拉伸） 
+LEN, *LENGTHEN（直线拉长） 
+SC, *SCALE（比例缩放） 
+BR, *BREAK（打断） 
+CHA, *CHAMFER(倒角) 
+F, *FILLET（倒圆角） 
+PE, *PEDIT（多段线编辑） 
+ED, *DDEDIT（修改文本） 
+4、视窗缩放： 
+P, *PAN（平移） 
+Z＋空格＋空格, *实时缩放 
+Z, *局部放大 
+Z+P, *返回上一视图 
+Z＋E, *显示全图 
+5、尺寸标注： 
+DLI, *DIMLINEAR（直线标注） 
+DAL, *DIMALIGNED（对齐标注） 
+DRA, *DIMRADIUS（半径标注） 
+DDI, *DIMDIAMETER（直径标注） 
+DAN, *DIMANGULAR（角度标注） 
+DCE, *DIMCENTER（中心标注） 
+DOR, *DIMORDINATE（点标注） 
+TOL, *TOLERANCE（标注形位公差） 
+LE, *QLEADER（快速引出标注） 
+DBA, *DIMBASELINE（基线标注） 
+DCO, *DIMCONTINUE（连续标注） 
+D, *DIMSTYLE（标注样式） 
+DED, *DIMEDIT（编辑标注） 
+DOV, *DIMOVERRIDE(替换标注系统变量) 
+（二）常用CTRL快捷键 
+【CTRL】＋1 *PROPERTIES(修改特性) 
+【CTRL】＋2 *ADCENTER（设计中心） 
+【CTRL】＋O *OPEN（打开文件） 
+【CTRL】＋N、M *NEW（新建文件） 
+【CTRL】＋P *PRINT（打印文件） 
+【CTRL】＋S *SAVE（保存文件） 
+【CTRL】＋Z *UNDO（放弃） 
+【CTRL】＋X *CUTCLIP（剪切） 
+【CTRL】＋C *COPYCLIP（复制） 
+【CTRL】＋V *PASTECLIP（粘贴） 
+【CTRL】＋B *SNAP（栅格捕捉） 
+【CTRL】＋F *OSNAP（对象捕捉） 
+【CTRL】＋G *GRID（栅格） 
+【CTRL】＋L *ORTHO（正交） 
+【CTRL】＋W *（对象追踪） 
+【CTRL】＋U *（极轴） 
+（三）常用功能键 
+【F1】 *HELP（帮助） 
+【F2】 *（文本窗口） 
+【F3】 *OSNAP（对象捕捉） 
+【F7】 *GRIP（栅格） 
+【F8】 *ORTHO（正交）  
+ 
+ 2004-9-8 11:13 AM    
+
+
+AutoCAD 2004采用全新的DWF文件格式
+
+AutoCAD 2004采用全新的DWF文件格式，速度比前一版本提高24%，网络性能提升28%，DWG文件大小平均减小44%，服务器磁盘空间要求减少40%-60% 
+　　世界领先的设计软件和数字内容软件提供商欧特克公司(Autodesk，Nasdaq: ADSK)正式宣布推出其AutoCAD软件的划时代版本——AutoCAD 2004简体中文版。在AutoCAD 2004的基础上，欧特克还同时发布了针对建筑业、基础设施和机械制造业的10个行业应用解决方案。 
+继北京发布会之后，5月23日和26日，欧特克还将分别在上海和广州举办“AutoCAD 2004解决方案巡展”，向用户和经销商展示这一全球领先的计算机辅助设计解决方案。
+　　AutoCAD 2004与它的前一版本AutoCAD 2002相比，在速度、数据共享和软件管理方面有显著的改进和提高。其中，速度比AutoCAD 2002提高24%，网络性能提升了28%，DWG文件大小平均减小44%，可将服务器磁盘空间要求减少40%-60%。在数据共享方面，AutoCAD 2004采用改进的DWF文件格式——DWF(tm) 6，支持在出版和查看中安全地进行共享；并通过参考变更的自动通知、在线内容获取、CAD标准检查、数字签字检查等技术提供了方便、快捷、安全的数据共享环境。此外，AutoCAD 2004与业界标准工具SMS、Windows Advertising等兼容，并提供免费的图档查看工具Express Tools，在许可证管理、安装实施等方面都可以节省大量的时间和成本。
+　　欧特克公司大中国地区技术部经理单适南在发布会上详细介绍了AutoCAD 2004的新特性和功能，他总结说，“AutoCAD 2004是欧特克公司针对建筑、基础设施和制造业市场定制的、系列行业应用解决方案的奠基性产品，它采用了多项强大的新技术，是迄今最快、最易于使用的AutoCAD软件。当前，数字化的设计数据已经成为设计单位和业主的战略资产。这些数据在各项目组以及业务合作伙伴之间共享得越广泛，其创造的利润也就越多。新版的AutoCAD软件及其行业版本能够快速、方便地集成项目工作，使客户轻松地创建和共享设计数据，高效地管理软件，更好地进行协作，从而提高劳动生产率，保证项目按期完成。”
+　　欧特克公司大中国地区渠道经理吴旻晖博士表示，“当前，中国经济形势在全球一枝独秀，在中国加入WTO、西部大开发、信息化带动工业化、举办2008年奥运会和2010世博会等大事件构成的宏观大背景下，中国设计业的前景一片光明。欧特克公司一贯非常重视中国市场，把中国市场放在其全球战略高度的地位。欧特克公司将凭借以AutoCAD 2004为核心的、全球领先的数字化设计解决方案，能够帮助设计单位和业主大幅度提高劳动生产力，降低项目成本，综短工期，中国经济建设和发展贡献一份力量。”
+　　这次发布的AutoCAD 2004产品家族除了AutoCAD 2004及其普及版AutoCAD 2004 LT以外，还包括10款分别为建筑业、制造业和基础设施市场度身定制的、稳健的行业应用产品：AutoCAD(r) 2004、AutoCAD LT(r) 2004、Autodesk(r) Architectural Desktop 2004、AutoCAD(r) Mechanical 2004、Autodesk(r) Civil Design 2004、Autodesk(r) Civil Series 2004、Autodesk Map(tm) 2004、Autodesk Map(tm) Series 2004、Autodesk(r) Raster Design 2004、Autodesk(r) Land Desktop 2004和Autodesk(r) Survey 2004。即将推出的Autodesk Inventor(r) Series 7和Autodesk(r) Revit(r) 5.1高级建模产品虽然没有基于AutoCAD 2004平台设计，但是将与新的AutoCAD 2004家族兼容。
+　　适时地为适当的人员提供适当的数据( DWF(tm) 6 
+　　全新的Autodesk 2004系列工业解决方案采用增强的协作和发布平台DWF(tm) 6 (Design Web Format(tm))，可帮助客户共享数据，从而在项目的整个生命周期实现无缝的设计协作和交流。新增强的文件格式提供高度压缩、不可编辑的多页CAD文件，具有丰富的元数据，能让设计师、工程师、开发人员及其同事快速轻松地向需要查看、审查或打印设计信息的任何用户交流设计信息。
+　　新的DWF文件可以运用Autodesk(r) Express Viewer进行查看和打印，Autodesk(r) Express Viewer随2004产品附带提供，并可在英特网上下载。该查看器是一个免费提供的轻型高性能应用程序，可方便地分发给项目小组的任何成员，甚至那些不使用AutoCAD产品但需要查看数字设计数据的人员。DWF文件格式是整个Autodesk产品家族的战略基础。
+　　适合众多行业的理想解决方案
+　　Autodesk的设计解决方案可以满足跨多个行业的客户的需求。全新的Autodesk 2004系列工业解决方案包含的产品能够帮助客户在整个项目生命周期(从概念到完成)创建、共享和分析项目信息。以下是这些新产品的简要介绍。欲深入了解这些新产品的功能，请访问www.autodesk.com/preview2004。
+　　通用设计
+　　* AutoCAD 2004软件是理想的二维制图、详图和三维设计工具，可加快数据创建，让您更加轻松地共享文件。
+　　* AutoCAD LT 2004软件可供需要全部DWG文件格式功能但不需要定制其软件的各行各业的设计专业人士进行制图和详图设计。
+　　建筑业
+　　* Autodesk Revit 5.1建筑信息建模程序是Autodesk的战略解决方案，它支持新的AutoCAD 2004平台，并提供了一种能够提高工作效率的参数更改技术，因此建筑专业人员可以腾出更多时间集中精力解决项目问题，并能更好地控制设计质量。Revit系统能够自动协调所有设计信息，提供最佳的施工文档。
+　　* Autodesk Architectural Desktop 2004是在AutoCAD环境中运行的一种建筑信息建模解决方案，它提供简化的用户界面、自动化文件和级别管理、集成的照片效果的渲染和动画(可提高工作效率)、更好的协调及更加平滑的协作和数据交换。
+　　基础设施解决方案(以前的GIS解决方案)
+　　* Autodesk Map Series 2004是一个综合性地图绘制软件包，包括Autodesk Map和Autodesk Raster Design。Autodesk Map 2004是精确的地图绘制和GIS软件，可用来创建、维护和分析地图及地理数据。Autodesk Raster Design 2004是一个成像解决方案，用来显示、操纵和出图具有矢量数据的光栅影像。
+　　* Autodesk Civil Series 2004为土木工程和测量专业人员提供了完整的工具集。Autodesk Land Desktop简化了土地开发项目，支持地形分析、地块和道路准线、COGO集成、土方量和等高线计算等功能。Autodesk Civil Design 2004通过工地开发以及道路、水文和水利设计工具扩展了Autodesk Land Desktop的功能。与Autodesk Map Series一样，Autodesk Civil Series也包含Autodesk Raster Design 2004。Autodesk Survey 2004扩展了Autodesk Land Desktop的功能，可捕捉和操纵现场测量数据。
+　　*除上述产品之外，Autodesk的整个基础设施解决方案产品线还将支持AutoCAD 2004数据格式，包括Autodesk MapGuide(r)、Autodesk(r) Envision(以前的Autodesk(r) OnSite Desktop)、Autodesk(r) GIS Design Server及Autodesk的CAiCE交通设计工具。
+　　制造业
+　　* AutoCAD Mechanical 2004是一个专门设计的二维机械设计解决方案，针对智能机械工程和设计、关联生产制图和详图以及基于标准的二维内容进行了优化。
+　　* Autodesk Inventor(r) Series是一款屡获殊荣的设计软件包，适合计划移植到三维设计的公司，它包括最佳的二维和三维设计软件- Autodesk(r) Mechanical Desktop(r)和Autodesk Inventor应用程序。 
+
+
+
+
+AutoCAD应用技巧精选
+
+1. 执行编辑命令，提示选择目标时，用矩形框方式选择，从左向右拖动光标，为"窗口Windows"方式，如果从右向左拖动光标，则为"交叉Cross"方式。
+2. 相对坐标输入点时，在正交状态时，一般输入为：@x,0或@0,y 
+(例如输入相对坐标“@100,0”表示下一点相对上一点X方向增加100，又如输入相对坐标“@0,50”表示下一点相对上一点Y方向增加50)，以上两种情况下，可以直接输入100或50即可实现相同的目的，从而节省输入时间。
+3. 在AutoCAD中有时有交叉点标记在鼠标点击处产生，用BLIPMODE命令，在提示行下输入OFF可消除它。
+4. 有的用户使用AutoCAD时会发现命令中的对话框会变成提示行，如打印命令，控制它的是系统变量CMDDIA，关掉它就行了。
+5. 椭圆命令生成的椭圆是以多义线还是以椭圆为实体的是由系统变量PELLIPSE决定，当其为1时，生成的椭圆是PLINE。
+6. CMDECHO变量决定了命令行回显是否产生，其在程序执行中应设为0。
+7. DIMSCALE决定了尺寸标注的比例，其值为整数，缺省为1，在图形有了一定比例缩放时应最好将其改成为缩放比例。
+8.CAD的较高版本中提供了形位公差标注，但圆度及同轴度中的圆不够圆，其实，AutoCAD中常见符号定义都在AutoCAD安装目录下SUPPORT子目录下的gdt.shp文件中，其中2号和4号字符定义了圆形的形状，圆的弧度竟为127°，但不太好改正之（如改为90°更不好看）。
+9.空心汉字字形如使用AutoCAD R14中的BONUS功能（一定要完全安装AutoCAD，或自定义安装时选了它），有一个TXTEXP命令，可将文本炸为线，对做立体字十分有用。
+10. AutoCAD R14的BONUS中有一个ARCTEXT命令，可实现弧形文本输出，使用方法为先选圆弧，再输入文本内容，按OK。 
+11. BONUS中有一个有用的命令，即MPEDIT，用它将多个线一齐修改为多义线，再改它的线宽。
+12. Image命令在R14中代替了R13中的BMPIN、PCXIN之类的命令，它将位图嵌入文件中，只用来显示，如炸开就成了空框架，如何使用PCXIN等命令重现？请将R13安装目录下的RASTERIN.EXE拷入R14下，用appload将其装入，然后就可以将位图导入（可编缉，可炸开）了。
+13. BREAK命令用来打断实体，用户也可以一点断开实体，用法是在第一点选择后，输入“@”。常用一条线一段为点划线，另一段为实线时。
+14. AutoCAD R14中提供了大量的命令缩写，许多R13中无缩写的命令也有了缩写，下面提供了CAD中的单字符缩写：A：ARC，B：Bmake，C：Circle，D：ddim，E：erase，F：fillet，G：group，H：bhatch，I：ddinsert，L：line，M：move，O：offset，P：pan，R：redraw，S：stretch，T：mtext，U：undo，V：ddview，W：Wblock，X；explode，Z：zoo，可大量使用之，使用后会发现比鼠标点取快（尤其在ls输5个字符的速度下）。AutoCAD 
+R14大量扩充了简化命令，不仅增加了以首字母简化的命令（这里不列出），而用增加了用前两个字母简化的命令，常的如：array 、copy、 dist、 
+donut 、dtext 、filter 、mirror、 pline 、rotate 、trim、 scale 、snap 、style、 
+units等，更加提高了用键盘输入命令的速度，对熟悉键盘的朋友来说简直是如虎添翼。
+15. AutoCAD R14命令的缩写也可用在R13，方法是将AutoCAD 
+R14下的Support子目录下的ACAD.pgp拷贝至AutoCAD R13中的Support子目录下。
+16. AutoCAD 中ACAD.pgp文件十分重要，它记录命令缩写内容，用户可自定义它们，格式如下：<命令缩写> *命令名称。也可定义系统命令，AutoCAD R14提供了sh命令，可执行DOS命令，但在Windows作用下不大。
+17. AutoCAD R14中用NOTEPAD、EDIT、DIR、DEL等系统命令，笔者认为其中NOTEPAD对自定义CAD用途较大，但使用起来会发现屏幕一闪（进了DOS），又返回，十分让人不愉快，让我们来编一个小程序，取名为note.lsp:
+(defun c:notepad()
+(startapp″notepad″)
+) 
+先将ACAD.pgp中的NOTEPAD命令定义行删除，重入CAD后，再将此程序命令：（load″note″）装入，下一次用NOTEPAD命令会有更好效果，最好将（load″note″）加入Support子目录下的ACADR14.lsp中。
+18. AutoCAD R14中打印线宽可由颜色设定，这样机械制图中的各种线型不同、、线宽不同的线条可放入不同的层，在层中定义了线型的颜色，而在打印设置中设定线型与颜色的关系，效果良好。 
+19. AutoCAD R14的Support中ACAD.dwt为缺省模板，要好好加工它，把常用的层、块、标注类型定义好，再加上标准图框，可省去大量重复工作。
+20. AutoCAD中有不少外部Lisp命令文件，可以直接观察它们，如果学习开发Lisp应用程序，注意；R14可是最后一版Lisp文件内容公开的AUTOCAD，在CAD2000中Lisp文件内容是加密的（笔者正在研究解密程序）。 
+21. AutoCAD二次开发工具很多，Lisp早就有了，R11提供了ADS（Acad Develop system）,R12中提供了ADS对实模式下C编译器（如BC，MS C）的支持，R13提供ARX（Acad Runtime eXtend）,R14提供了 VB Automation,这个Automation使VB编写CAD程序成为可能，渴望CAD编程的人有了一个最好的选择，不必学习ADS、ARX、Object ARX和AutoLisp,一起加入AutoCAD编程的世界。
+22. 用户自定义的Lisp文件一定要自动装入AutoCAD，这样就需要在acadr14.lsp中加入用户Lisp文件的装入语句，acadr14.lsp（早期版本为acad14.lsp）好似DOS的Autoexec.bat，一定要好好利用，在其中如定义了名为S::STARTUP()的函数可自动运行它。（给CAD加个启用画面如何，可用STARTUP加startapp函数，也可加登录密码）。
+23. 将AutoCAD中的图形插入WORD中，有时会发现圆变成了正多边形，用一下VIEWRES命令，将它设得大一些，可改变图形质量。
+24. 形如φ30H11(+0.1,-0.2)的标注如何去标呢,请在文本内容中输入%%c30{H11（}{\H0.7X；\S+0.1^-0.2；}）”，可以实现，如嫌太麻烦，就编程序来简化操作。
+25. AutoCAD中文件可当作块插入其他文件中，但这样一来过多的块使文件过于庞大，用PURGE来清除它们吧，一次清一层，一定要多用几次呀！
+26. AutoCAD R14的帮助文件内容十分丰富，由很多本“书”组成，一层层打开，多看它们用处是很大的，其中包括了CAD的各方面，比任何CAD大全还全，你是否想您的帮助加入其中，请修改acad.cnt,加入自己帮助的链接。
+27. 在CAD中可按规定编定.ahp的CAD帮助文件，在R14下用ahp2hlp.exe将其转变为.hpj的文件和.rtf的文件，再用HelpWorkshop工具（在VC5中有）将其项目打开，编译为.hlp文件。
+28. 在AutoCAD中有一些DOS下的exe文件在R14中仍有用途，用Slidelib.exe可将幻灯片作库，mc.exe可实现菜单的编译。
+29. 在作完零件图进行组装时，可将零件图块插入后焊开，再用group成组后组装，这时用ddselect命令控制组选取处于何种状态，取消组选时再打开组状态。
+30. 在AutoCAD中的菜单源文件为.mnu文件，将其修改可将自己的命令加入菜单中，再用menu命令装入，加参加AutoCAD帮助了解菜单文件格式。图标工具条中加入自己的命令相对简单，可在工具条上点右键，在toolbar对话中，点new 
+按钮，输入工具条后，一个新工具条产生，再选Customize按钮，选定custom，将空按钮拖入工具条中，再在空按钮上按右键，这样就可定义自己的按钮图标和命令。
+31. AutoCAD的状态行也可处定义，用DIESEL语言可以访问它，最简单的方法用modemacro命令，后输入$（getvar,clayer）,以后当前层名就显示在准确无误行上，用户化可谓无孔不入吧！
+32. AutoCAD的图形格式为.dwg,也可导出为.bmp及.wmf或.eps、.dxf、.3ds，是如果用render命令可存为.pcx、.tga、.tif格式，AutoCAD还可将文件直接存为这几种格式，要为系统装一个名为“Raster 
+file export”的打印机，用它打印到文件，ACAD2000还可将文件存为JPG格式。
+33. render进行着色时，render无关闭按钮，用户采用：（arxunload＂render＂）,因为它是ARX文件扩展的功能。
+34. dimzin系统变量最好要设定为8，这时尺寸标注中的缺省值不会带几个尾零，用户直接接受缺省值十分方便快捷。
+35. 如遇到快捷失效，如^0失去作用变为正交模式切换的情况，请用menu将当前使用菜单.mnu菜单源文件重装一遍即可。
+36. 在多行文字（mtext）命令中Word97编辑文本。Mtext多行文字编辑器是AuotCAD 
+R14中的新增功能，它提供了Windows文字处理软件所具备的界面和工作方式，它甚至可以利用Word97的强大功能编辑文本，这一功能可以用如下方法实现：
+打开“Tools”菜单选“Preferences”命令，“Preferences”对话框弹出后，打开“Files/Text 
+Editor,Dictionary,and Font File Name/Text Editor 
+Application/Iinternal”,双击“Internal”,出现“Select a 
+file”对话框，接着找到“Winword.exe”应用程序文件，击“打开”钮，最后单击“OK”返回。完成以上设置后，用户如再使用mtext命令时系统将自动调用我们熟悉的Word97应用程序，为AotoCAD中的文本锦上添花。
+37. 巧用工具按钮自定义AotoCAD中有许多Lsp文件能为我们提供非常实用的命令，如chtext.lsp就是一个很好的文字修改命令，尤其适用于大批文字的修改，但在使用这样的命令之前必须先把Lsp文件载入。一般你可以通过选取“Tools”菜单中“Load 
+Application…”选项，再利用对话框打开AutoCAD R14／Support 
+下的Chtext.lsp文件，然后击“Load”钮，或者也可以直接在命令行中键入“（load“chtext”）”以达到载入的目的，如此做总有些繁琐。下面我们用自定义工具按钮的方式解决这个问题，右击任意工具钮，弹出“Toolbars”对话框，击“Customize…”钮，在“Categories:”中选“Custom”项，将出现的空按钮拖到工具条中目标位置，击“Close”钮返回，接着右击空按钮，出现“Button 
+Properties”对话框，在“Name:”,栏中为命令钮命名，“Help:”栏中你可以写入或不写入内容，然后在“Macro:”中键入“（Load 
+“chtext）cht”,至于“Button 
+Icon”,用户可选系统提供的图标，也可以点“Edit…”自行绘制或者直接调用已有的bmp文件，最后点“Apply”钮并依次关闭对话框返回。这样你自己的工作按钮就做成了。由于在后面增加了“cht”（注意：前面要有空格），所以你只要按工具钮便可以直接去选择要编辑的目标文件。
+38. “Stretch”命令也是一个常用命令，但输入命令后，系统总要提示“select object to stretch by 
+crossing_window or crossing_polygon…”,要求你再输入一个“C”后才能用鼠标去选择目标。为了使操作简化，用户只需将系统提供的工具按钮做些小小的修改即可。右击任意工具钮弹出“Toolbars”对话框，再右击“stretch”工具钮弹出“Toolbars”对话框，在“Macro:”框中的“^c^c_stretch”后键入空格和“C”。以后你再点击处理后的工具钮可以接选择目标进行操作。
+39. AuotCAD R14用户均采用系统给出的缺省格式存盘，这种格式存盘的缺点是文件所占空间大，不能用低版本的应用程序（如：AuotCAD R12、AuotCAD 
+R13）打开，为避免磁盘空间的浪费，你可以在“Save Drawing As”对话框的“保存类型”中选“AuotCAD R12/LT2 Drawing”格式存盘。例如：同一dwg文件用两种方式存盘，它们的大小分别是87KB、58KB。可见差别还是很可观的。而且后者文件可以在R12、R13版本的应用程序中打开。这种方式对配置较低的用户尤为实用。
+40. 有时在打开dwg文件时，系统弹出“AutoCAD Message”对话框提示“Drawing file is not valid 
+”,告诉用户文件不能打开。这种情况下你可以先退出打开操作，然后打开“File”菜单，选“Drawing 
+Utilities/Recover”,或者在命令行直接用键盘输入“recover”,接着在“Select 
+File”对话框中输入要恢复的文件，确认后系统开始执行恢复文件操作。
+41. 汉化菜单。将support目录下的acad.mnu文件复制为chinese.mnu。用写字板打开chinese.mnu。仔细观察会发现其中有许多类似“* * *POP”的条目，每一条自定义了一列下拉菜单。将引号中的英文命令名称改为中文，存盘退出。再在R14中输入“menu”命令，将chinese.mnu菜单文件装入，下拉菜单就变成了中文。还可以再装入acad.mnu文件将菜单还原。
+42. R14默认的“命令取消”键是“ESC”键，如果你已经习惯了R12的“Ctrl+C”怎么办呢？点击菜单Tools\preferences\compatibility\priority 
+for accelerator keys\autoCAD classic,然后就可以用“Ctrl+C”取消命令了，同时“ESC”键仍然有效。
+43. trim命令中提示选取要剪切的图形时，不支持常用的window和crossing选取方式。当要剪切多条线段时，要选取多次才能完成。这时可以使用fence命令提示选择要剪除的图形时，输入“f”，然后在屏幕上画出一条虚线，回车，这时被 该虚线接触到的图形全部被剪切掉。
+44. 单击“Object Propertys”工具条上的“Make objects' layer 
+current”按钮，然后在作图区选择要去的图层上的任一图形，当前层立刻变换到选取的图形所在层。
+45. 用R14打开R11和R12的文件时，即使正确地选择了汉字字形文件，还是会出现汉字乱码，原因是R14与R11或R12采用的代码页不同。可到本站或AutoDesk公司主页下载代码页转换工具wnewcp。运行wnewcp后，首先选中“R11/R12”复选框，再单击“Browse”按钮，选择要转换的文件或目录，然后选择新的代码页，ANSI936或GB2312均可，单击“Start Conversion”即开始转换。转换后，在R14中就能正确地显示汉字。
+46. 在AutoCAD中有时尺寸箭头及Trace画的轨迹线变为空心，用TRIMMODE命令，在提示行下输新值1可将其重新变为实心。
+47. 用AutoCAD打开一张旧图，有时会遇到异常错误而中断退出，这时首先使用40介绍的方法，如果问题仍然存在，则可以新建一个图形文件，而把旧图用图块形式插入，可以解决问题。    
+ 
+http://blog.sina.com.cn/s/blog_768f3f570101cckt.html
+
+http://blog.sina.com.cn/s/blog_768f3f570101cccb.html
+
+http://blog.sina.com.cn/s/blog_768f3f570101c4fn.html
+
+http://blog.sina.com.cn/s/blog_768f3f570101bs79.html
+
+http://blog.sina.com.cn/s/blog_768f3f570101bqin.html
+
+http://blog.sina.com.cn/s/blog_768f3f570101bn0v.html
+
